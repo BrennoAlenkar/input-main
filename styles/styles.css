@@ -18,3 +18,7 @@ body {
 .cabecalho__logo-link {
     text-decoration: none;
 }
+
+input {
+    font-size: 18px;
+}
